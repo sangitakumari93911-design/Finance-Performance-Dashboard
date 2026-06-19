@@ -16,6 +16,7 @@ An interactive Power BI dashboard designed to analyze and track key financial me
 ## 🛠️ Tools Used
 * **Power BI Desktop:** For data modeling, DAX calculations, and data visualization.
 * **Dataset:** Financial sample dataset containing sales and profit records.
+<img width="2242" height="1258" alt="image" src="https://github.com/user-attachments/assets/66cbbf9d-5887-48e5-8bdd-335e97867446" />
 
 
 
