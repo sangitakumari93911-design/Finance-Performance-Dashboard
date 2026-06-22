@@ -4,7 +4,6 @@ An interactive Power BI dashboard designed to analyze and track key financial me
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Screenshot 2026-06-19 162514.png)
-*(Note: Agar aapne screenshot ka naam badla hai, toh yahan wahi naam likhein)*
 
 ## 🚀 Key Features & Insights
 * **Executive Summary KPIs:** High-level tracking of Gross Sales ($128M), Total Sales ($119M), Net Profit ($17M), and total Units Sold (1.13M).
